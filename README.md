@@ -1,5 +1,5 @@
 # Bem Vindo ao meu perfil
-Olá, eu sou o Wesley Carvalho
+Olá, eu sou o Wesley Carvalho, graduando no curso de análise e desenvolvimento de sistemas.
 
 ## Meus Hobbies
 - Ler
@@ -7,9 +7,10 @@ Olá, eu sou o Wesley Carvalho
 - Assistir serie
 
 ## Atualmente Estudando
-- Ler
--  Jogar videogame
--  Assistir Filmes e Series
+-  HTML
+-  CSS
+-  Java script e typescript
+-  react
 
 ##  Meus contatos
 
