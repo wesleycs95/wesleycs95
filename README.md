@@ -5,12 +5,14 @@ Olá, eu sou o Wesley Carvalho, graduando no curso de análise e desenvolvimento
 - Ler
 - Jorgar Videogame
 - Assistir serie
+- Fazer exercicio fisico
 
 ## Atualmente Estudando
 -  HTML
 -  CSS
 -  Java script e typescript
 -  react
+- Graduando Analise e Desenvolvimento de sistemas.
 
 ##  Meus contatos
 
