@@ -3,7 +3,7 @@ Olá, eu sou o Wesley Carvalho, graduando no curso de análise e desenvolvimento
 
 ## Meus Hobbies
 - Ler
-- Jogar Videogame
+- Pescar
 - Assistir serie e Filmes
 - Viajar
 
